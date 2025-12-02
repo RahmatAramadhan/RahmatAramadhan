@@ -50,16 +50,9 @@
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 </p>
 
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RahmatAramadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmatAramadhan&layout=compact&theme=algolia&hide_border=true&hide=html,css,blade,smart,hack"/>
-</a>
-
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <i>"Leveraging code to bridge the gap between physical hardware, robust infrastructure, and digital intelligence."</i>
