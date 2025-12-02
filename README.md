@@ -64,15 +64,6 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=RahmatAramadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmatAramadhan&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&hide=html,css,blade,smart,hack"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <i>"Leveraging code to bridge the gap between physical hardware, robust infrastructure, and digital intelligence."</i>
   <br><br>
   <a href="https://linkedin.com/in/rahmat-ramadhan-profile-anda" target="_blank">
