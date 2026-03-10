@@ -5,11 +5,11 @@
 <br>
 
 <div align="center">
-  <p width="600px"> 
-    <b>Engineering robust systems at the intersection of Hardware, Cloud, and Intelligence.</b>
-    <br><br>
-    I am a Software Engineer with specialized expertise in architecting <b>Distributed Systems</b>, managing self-hosted infrastructure, and developing high-performance <i>real-time</i> applications. My current focus converges <b>IoT</b> protocols, <b>Data Engineering</b>, and <b>Deep Learning</b> to build solutions that are not just automated, but intelligent and secure.
-  </p>
+  <p>
+    <b>Building clean, efficient, and scalable systems  at the intersection of Web Development , IoT , and Educational Technology.</b>
+    <br><br>
+    I am a Full Stack Developer  with specialized expertise in architecting <b>RESTful APIs</b> , database design , and developing functional, real-world applications[cite: 5]. My current focus converges <b>Backend Technologies</b> (Laravel, Flask, Golang) , <b>IoT Systems</b> [cite: 10], and <b>Adaptive Learning</b>  to build solutions that are structured [cite: 50], efficient , and tailored to personalized learning styles.
+</p>
 </div>
 
 <br>
