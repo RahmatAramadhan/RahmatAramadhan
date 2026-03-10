@@ -8,7 +8,7 @@
   <p>
     <b>Building clean, efficient, and scalable systems  at the intersection of Web Development , IoT , and Educational Technology.</b>
     <br><br>
-    I am a Full Stack Developer  with specialized expertise in architecting <b>RESTful APIs</b> , database design , and developing functional, real-world applications[cite: 5]. My current focus converges <b>Backend Technologies</b> (Laravel, Flask, Golang) , <b>IoT Systems</b> [cite: 10], and <b>Adaptive Learning</b>  to build solutions that are structured [cite: 50], efficient , and tailored to personalized learning styles.
+    I am a Full Stack Developer  with specialized expertise in architecting <b>RESTful APIs</b> , database design , and developing functional, real-world applications. My current focus converges <b>Backend Technologies</b> (Laravel, Flask, Golang) , <b>IoT Systems</b> , and <b>Adaptive Learning</b>  to build solutions that are structured , efficient , and tailored to personalized learning styles.
 </p>
 </div>
 
